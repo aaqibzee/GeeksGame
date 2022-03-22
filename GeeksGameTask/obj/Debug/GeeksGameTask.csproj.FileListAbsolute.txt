@@ -1,0 +1,12 @@
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\obj\Debug\GeeksGameTask.Properties.Resources.resources
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\obj\Debug\GeeksGameTask.csproj.GenerateResource.cache
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\obj\Debug\GeeksGameTask.csproj.CoreCompileInputs.cache
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\bin\Debug\GeeksGameTask.exe.config
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\bin\Debug\GeeksGameTask.exe
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\bin\Debug\GeeksGameTask.pdb
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\obj\Debug\GeeksGameTask.exe
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\obj\Debug\GeeksGameTask.pdb
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\obj\Debug\GeeksGameTask.csprojAssemblyReference.cache
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\obj\Debug\GeeksGameTask.CustomControls.MoveablePictureBox.resources
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\obj\Debug\GeeksGameTask.Screens.GameBoard.resources
+C:\Users\aqib.zafar\source\repos\GeeksGameTask\GeeksGameTask\obj\Debug\GeeksGameTask.Screens.GameOverWindow.resources
